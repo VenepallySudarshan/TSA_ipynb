@@ -16,7 +16,7 @@ Time Series Analysis A Time Series is a set of observations that are collected a
 # Description:
 
 The data set provides the history of daily prize of Microsoft Stock depending on USD
-# image
+
 
 # project Approached Steps:
 Loading and Exploring Data.
